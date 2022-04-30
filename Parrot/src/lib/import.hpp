@@ -8,6 +8,8 @@
 #include <time.h>
 #include <functional>
 #include <thread>
+#include <fstream>
+#include <string>
 
 #define parrot__ namespace Parrot {
 #define __parrot }

@@ -15,6 +15,8 @@ struct TimeIt {
 	time_t getDuration();
 };
 
+std::string getTime();
+
 void sleep(uint32_t = 100);
 
 __parrot

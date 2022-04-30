@@ -7,7 +7,8 @@
 #include "import.hpp"
 #include "core/parse.hpp"
 #include "utils/Time.hpp"
-#include "utils/Hash.hpp"
+// #include "utils/Hash.hpp"
+#include "utils/Log.hpp"
 
 #endif // !ParrotHpp
 
